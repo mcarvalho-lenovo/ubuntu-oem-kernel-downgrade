@@ -31,7 +31,7 @@ sudo apt update
 List the available OEM kernel versions using the following command:
 
 ```bash
-apt search linux-image-oem
+apt search linux-image-6.5.0-1023-oem
 ```
 
 Look for the specific version `6.5.0-1023` in the search results.
